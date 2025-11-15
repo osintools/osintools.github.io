@@ -1,0 +1,138 @@
+{
+  "name": "Telephone Numbers",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Voicemail",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Slydial",
+          "type": "url",
+          "url": "https://www.slydial.com/"
+        }
+      ]
+    },
+    {
+      "name": "International",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Numbering Plans",
+          "type": "url",
+          "url": "https://www.numberingplans.com/?page=analysis&sub=phonenr"
+        },
+        {
+          "name": "Numberway",
+          "type": "url",
+          "url": "https://www.numberway.com/"
+        }
+      ]
+    },
+    {
+      "name": "WhoCalld",
+      "type": "url",
+      "url": "https://whocalld.com/"
+    },
+    {
+      "name": "411",
+      "type": "url",
+      "url": "http://www.411.com/reverse_phone"
+    },
+    {
+      "name": "CallerID Test",
+      "type": "url",
+      "url": "http://www.calleridtest.com/"
+    },
+    {
+      "name": "ThatsThem - Reverse Phone Lookup",
+      "type": "url",
+      "url": "https://thatsthem.com/reverse-phone-lookup"
+    },
+    {
+      "name": "Twilio Lookup",
+      "type": "url",
+      "url": "https://www.twilio.com/lookup"
+    },
+    {
+      "name": "Fone Finder",
+      "type": "url",
+      "url": "http://www.fonefinder.net/"
+    },
+    {
+      "name": "True Caller",
+      "type": "url",
+      "url": "http://www.truecaller.com/"
+    },
+    {
+      "name": "Reverse Genie",
+      "type": "url",
+      "url": "http://www.reversegenie.com/phone.php"
+    },
+    {
+      "name": "SpyDialer",
+      "type": "url",
+      "url": "http://www.spydialer.com/default.aspx"
+    },
+    {
+      "name": "Phone Validator",
+      "type": "url",
+      "url": "http://www.phonevalidator.com/"
+    },
+    {
+      "name": "Free Carrier Lookup",
+      "type": "url",
+      "url": "http://freecarrierlookup.com/"
+    },
+    {
+      "name": "Mr. Number (M)",
+      "type": "url",
+      "url": "http://mrnumber.com/1-888-742-0000"
+    },
+    {
+      "name": "CallerIDService.com (R)",
+      "type": "url",
+      "url": "http://www.calleridservice.com/"
+    },
+    {
+      "name": "Next Caller (R)",
+      "type": "url",
+      "url": "https://nextcaller.com/"
+    },
+    {
+      "name": "Data24-7 (R)",
+      "type": "url",
+      "url": "https://www.data24-7.com/signup.php"
+    },
+    {
+      "name": "HLR Lookup Portal (R)",
+      "type": "url",
+      "url": "https://www.hlr-lookups.com/"
+    },
+    {
+      "name": "OpenCNAM",
+      "type": "url",
+      "url": "https://www.opencnam.com/"
+    },
+    {
+      "name": "OpenCNAM API",
+      "type": "url",
+      "url": "http://api.opencnam.com/v2/phone/+19073372323"
+    },
+    {
+      "name": "USPhoneBook",
+      "type": "url",
+      "url": "https://www.usphonebook.com"
+    },
+    {
+      "name": "Numspy (T)",
+      "type": "python3 Module",
+      "url": "https://bhattsameer.github.io/numspy"
+    },
+    {
+      "name": "Numspy-Api",
+      "type": "url",
+      "url": "https://numspy.pythonanywhere.com/"
+    }
+  ]
+}

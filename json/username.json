@@ -1,0 +1,103 @@
+{
+  "name": "Username",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Username Search Engines",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Sylva Identity Discovery (T)",
+          "type": "url",
+          "url": "https://sylva.pfeister.dev/"
+        },
+        {
+          "name": "Sherlock (T)",
+          "type": "url",
+          "url": "https://github.com/sherlock-project/sherlock"
+        },
+        {
+          "name": "WhatsMyName",
+          "type": "url",
+          "url": "https://whatsmyname.app/"
+        },
+        {
+          "name": "Namechk",
+          "type": "url",
+          "url": "https://namechk.com/"
+        },
+        {
+          "name": "UserSearch.org",
+          "type": "url",
+          "url": "https://usersearch.org/"
+        },
+        {
+          "name": "WhatsMyName (T)",
+          "type": "url",
+          "url": "https://github.com/WebBreacher/WhatsMyName"
+        },
+        {
+          "name": "WhatsMyName",
+          "type": "url",
+          "url": "https://whatsmyname.app/"
+        },
+        {
+          "name": "Thats Them",
+          "type": "url",
+          "url": "https://thatsthem.com/"
+        },
+        {
+          "name": "NameCheckup",
+          "type": "url",
+          "url": "https://namecheckup.com/"
+        },
+        {
+          "name": "Instant Username Search",
+          "type": "url",
+          "url": "https://instantusername.com/"
+        },
+        {
+          "name": "IDCrawl Username Search",
+          "type": "url",
+          "url": "https://www.idcrawl.com/username"
+        },
+        {
+          "name": "Names Directory",
+          "type": "url",
+          "url": "https://namesdir.com/"
+        }
+      ]
+    },
+    {
+      "name": "Specific Sites",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Amazon Usernames (M)",
+          "type": "url",
+          "url": "https://www.google.com/search?q=site:amazon.com+%3Cusername%3E"
+        },
+        {
+          "name": "Github User (M)",
+          "type": "url",
+          "url": "https://api.github.com/users/%3Cusername%3E/events/public"
+        },
+        {
+          "name": "Tinder Usernames (M)",
+          "type": "url",
+          "url": "https://www.gotinder.com/@%3Cusername%3E"
+        },
+        {
+          "name": "Keybase",
+          "type": "url",
+          "url": "https://keybase.io/"
+        },
+        {
+          "name": "MIT PGP Key Server",
+          "type": "url",
+          "url": "http://pgp.mit.edu/"
+        }
+      ]
+    }
+  ]
+}

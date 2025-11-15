@@ -1,0 +1,120 @@
+{
+  "name": "Language Translation",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Text",
+      "type": "folder",
+      "children": [
+        {
+          "name": "DeepL Translator",
+          "type": "url",
+          "url": "https://www.deepl.com/"
+        },
+        {
+          "name": "Google Translate",
+          "type": "url",
+          "url": "https://translate.google.com/"
+        },
+        {
+          "name": "Google Input Tools",
+          "type": "url",
+          "url": "https://www.google.com/inputtools/try/"
+        },
+        {
+          "name": "Bing Translate",
+          "type": "url",
+          "url": "http://www.bing.com/translator/"
+        },
+        {
+          "name": "Word Reference",
+          "type": "url",
+          "url": "https://www.wordreference.com/"
+        },
+        {
+          "name": "Dictionary.com Translator",
+          "type": "url",
+          "url": "http://translate.reference.com/"
+        },
+        {
+          "name": "Free Translation",
+          "type": "url",
+          "url": "https://www.freetranslation.com/"
+        },
+        {
+          "name": "Free Online Translation",
+          "type": "url",
+          "url": "http://www.worldlingo.com/en/products_services/worldlingo_translator.html"
+        },
+        {
+          "name": "Wiktionary",
+          "type": "url",
+          "url": "https://www.wiktionary.org/"
+        },
+        {
+          "name": "Slangit - The Slang Dictionary",
+          "type": "url",
+          "url": "https://slangit.com/"
+        },
+        {
+          "name": "Slang Dictionary & Translator",
+          "type": "url",
+          "url": "http://www.noslang.com/"
+        },
+        {
+          "name": "Urban Dictionary",
+          "type": "url",
+          "url": "http://www.urbandictionary.com/"
+        }
+      ]
+    },
+    {
+      "name": "Pictures",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Online OCR",
+          "type": "url",
+          "url": "http://www.free-ocr.com/"
+        },
+        {
+          "name": "i2OCR",
+          "type": "url",
+          "url": "http://www.i2ocr.com/"
+        },
+        {
+          "name": "New OCR",
+          "type": "url",
+          "url": "https://www.newocr.com/"
+        },
+        {
+          "name": "Online OCR",
+          "type": "url",
+          "url": "http://www.onlineocr.net/"
+        }
+      ]
+    },
+    {
+      "name": "Videos",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Eleven Labs Dubbing",
+          "type": "url",
+          "url": "https://elevenlabs.io/dubbing"
+        }
+      ]
+    },
+    {
+      "name": "Analysis",
+      "type": "folder",
+      "children": [
+        {
+          "name": "WhatTheFont",
+          "type": "url",
+          "url": "https://www.myfonts.com/WhatTheFont/"
+        }
+      ]
+    }
+  ]
+}

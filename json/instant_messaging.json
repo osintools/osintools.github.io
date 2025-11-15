@@ -1,0 +1,60 @@
+{
+  "name": "Instant Messaging",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Skype",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Skype Web Client",
+          "type": "url",
+          "url": "https://web.skype.com/"
+        },
+        {
+          "name": "MostwantedHF",
+          "type": "url",
+          "url": "http://mostwantedhf.info/index.php"
+        },
+        {
+          "name": "Skype Resolver 2019",
+          "type": "url",
+          "url": "http://www.skypeipresolver.net/"
+        }
+      ]
+    },
+    {
+      "name": "Snapchat",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Snapchat Leak Checker",
+          "type": "url",
+          "url": "https://lastpass.com/snapchat/"
+        }
+      ]
+    },
+    {
+      "name": "Kik",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Kik Username (M)",
+          "type": "url",
+          "url": "http://kik.me/%3Cusername%3E"
+        }
+      ]
+    },
+    {
+      "name": "Yikyak",
+      "type": "folder",
+      "children": [
+        {
+          "name": "YikMap",
+          "type": "url",
+          "url": "http://yikmap.com/"
+        }
+      ]
+    }
+  ]
+}

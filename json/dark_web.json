@@ -1,0 +1,156 @@
+{
+  "name": "Dark Web",
+  "type": "folder",
+  "children": [
+    {
+      "name": "General Info",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Reddit Deep Web",
+          "type": "url",
+          "url": "https://www.reddit.com/r/deepweb"
+        },
+        {
+          "name": "Reddit Onions",
+          "type": "url",
+          "url": "https://www.reddit.com/r/onions"
+        },
+        {
+          "name": "Reddit Darknet",
+          "type": "url",
+          "url": "https://www.reddit.com/r/darknet"
+        }
+      ]
+    },
+    {
+      "name": "Clients",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Tor Download (T)",
+          "type": "url",
+          "url": "https://www.torproject.org/download/download-easy.html.en"
+        },
+        {
+          "name": "Freenet Project (T)",
+          "type": "url",
+          "url": "https://freenetproject.org/pages/download.html"
+        },
+        {
+          "name": "I2P Anonymous Network (T)",
+          "type": "url",
+          "url": "https://geti2p.net/en/"
+        }
+      ]
+    },
+    {
+      "name": "Discovery",
+      "type": "folder",
+      "children": [
+        {
+          "name": "OnionScan",
+          "type": "url",
+          "url": "https://github.com/s-rah/onionscan"
+        },
+        {
+          "name": "TorBot",
+          "type": "url",
+          "url": "https://github.com/DedSecInside/TorBot"
+        },
+        {
+          "name": "Tor Scan",
+          "type": "url",
+          "url": "http://www.torscan.io/"
+        },
+        {
+          "name": "Onioff",
+          "type": "url",
+          "url": "https://github.com/k4m4/onioff"
+        },
+        {
+          "name": "Hunchly Hidden Services Report",
+          "type": "url",
+          "url": "https://darkweb.hunch.ly/"
+        },
+        {
+          "name": "docker-onion-nmap (T)",
+          "type": "url",
+          "url": "https://github.com/milesrichardson/docker-onion-nmap"
+        },
+        {
+          "name": "Onion Investigator",
+          "type": "url",
+          "url": "https://oint.ctrlbox.com/"
+        }
+      ]
+    },
+    {
+      "name": "TOR Search",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Onion Cab",
+          "type": "url",
+          "url": "https://onion.cab/"
+        },
+        {
+          "name": "OnionLink",
+          "type": "url",
+          "url": "http://www.onion.link/"
+        },
+        {
+          "name": "Candle",
+          "type": "url",
+          "url": "http://gjobqjj7wyczbqie.onion/"
+        },
+        {
+          "name": "Not Evil",
+          "type": "url",
+          "url": "http://hss3uro2hsxfogfq.onion/"
+        },
+        {
+          "name": "Tor66",
+          "type": "url",
+          "url": "http://tor66sezptuu2nta.onion/"
+        },
+        {
+          "name": "dark.fail",
+          "type": "url",
+          "url": "http://darkfailllnkf4vf.onion/"
+        },
+        {
+          "name": "Ahmia",
+          "type": "url",
+          "url": "https://ahmia.fi/"
+        }
+      ]
+    },
+    {
+      "name": "TOR Directories",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Hidden Wiki",
+          "type": "url",
+          "url": "http://thehiddenwiki.org/"
+        },
+        {
+          "name": "Core.onion",
+          "type": "url",
+          "url": "http://eqt5g4fuenphqinx.onion/"
+        }
+      ]
+    },
+    {
+      "name": "Web O Proxy",
+      "type": "url",
+      "url": "https://weboproxy.com/"
+    },
+    {
+      "name": "IACA Dark Web Investigation Support",
+      "type": "url",
+      "url": "https://iaca-darkweb-tools.com/"
+    }
+  ]
+}

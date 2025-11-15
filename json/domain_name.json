@@ -1,0 +1,980 @@
+{
+  "name": "Domain Name",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Whois Records",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Domain Dossier",
+          "type": "url",
+          "url": "http://centralops.net/co/DomainDossier.aspx"
+        },
+        {
+          "name": "domainIQ",
+          "type": "url",
+          "url": "https://www.domainiq.com/"
+        },
+        {
+          "name": "DomainTools Whois",
+          "type": "url",
+          "url": "http://whois.domaintools.com/"
+        },
+        {
+          "name": "Domain Big Data",
+          "type": "url",
+          "url": "http://domainbigdata.com/"
+        },
+        {
+          "name": "Whoisology",
+          "type": "url",
+          "url": "https://whoisology.com/#advanced"
+        },
+        {
+          "name": "Whois ARIN",
+          "type": "url",
+          "url": "https://whois.arin.net/ui/advanced.jsp"
+        },
+        {
+          "name": "DNSstuff",
+          "type": "url",
+          "url": "https://tools.dnsstuff.com/"
+        },
+        {
+          "name": "Robtex (R)",
+          "type": "url",
+          "url": "https://www.robtex.com/"
+        },
+        {
+          "name": "Domaincrawler.com",
+          "type": "url",
+          "url": "http://www.domaincrawler.com/"
+        },
+        {
+          "name": "MarkMonitor Whois Search",
+          "type": "url",
+          "url": "https://domains.markmonitor.com/whois/"
+        },
+        {
+          "name": "easyWhois",
+          "type": "url",
+          "url": "https://www.easywhois.com/"
+        },
+        {
+          "name": "Website Informer",
+          "type": "url",
+          "url": "http://website.informer.com/"
+        },
+        {
+          "name": "Who.is",
+          "type": "url",
+          "url": "https://who.is/"
+        },
+        {
+          "name": "Whois AMPed",
+          "type": "url",
+          "url": "https://whoisamped.com/"
+        },
+        {
+          "name": "ViewDNS.info",
+          "type": "url",
+          "url": "http://viewdns.info/"
+        },
+        {
+          "name": "Daily DNS Changes",
+          "type": "url",
+          "url": "http://www.dailychanges.com/"
+        },
+        {
+          "name": "IP2WHOIS",
+          "type": "url",
+          "url": "https://www.ip2whois.com"
+        },
+        {
+          "name": "Netlas.io",
+          "type": "url",
+          "url": "https://app.netlas.io/whois_domains/"
+        }
+      ]
+    },
+    {
+      "name": "Subdomains",
+      "type": "folder",
+      "children": [
+        {
+          "name": "SynapsInt",
+          "type": "url",
+          "url": "https://synapsint.com"
+        },
+        {
+          "name": "Aquatone (T)",
+          "type": "url",
+          "url": "https://github.com/michenriksen/aquatone"
+        },
+        {
+          "name": "FindSubDomains",
+          "type": "url",
+          "url": "https://findsubdomains.com/"
+        },
+        {
+          "name": "Google Subdomains (D)",
+          "type": "url",
+          "url": "https://www.google.com/?gws_rd=ssl#q=site:%3Cdomain.com%3E"
+        },
+        {
+          "name": "Recon-ng (T)",
+          "type": "url",
+          "url": "https://github.com/lanmaster53/recon-ng"
+        },
+        {
+          "name": "XRay",
+          "type": "url",
+          "url": "https://github.com/evilsocket/xray"
+        },
+        {
+          "name": "DNS Recon (T)",
+          "type": "url",
+          "url": "https://github.com/darkoperator/dnsrecon"
+        },
+        {
+          "name": "Gobuster (T)",
+          "type": "url",
+          "url": "https://github.com/OJ/gobuster"
+        },
+        {
+          "name": "Fierce Domain Scanner (T)",
+          "type": "url",
+          "url": "https://github.com/davidpepper/fierce-domain-scanner"
+        },
+        {
+          "name": "Bluto (T)",
+          "type": "url",
+          "url": "https://github.com/darryllane/Bluto"
+        },
+        {
+          "name": "OWASP Maryam (T)",
+          "type": "url",
+          "url": "https://github.com/saeeddhqan/Maryam"
+        },
+        {
+          "name": "theHarvester (T)",
+          "type": "url",
+          "url": "https://github.com/laramies/theHarvester"
+        },
+        {
+          "name": "Pentest-tools.com Subdomains",
+          "type": "url",
+          "url": "https://pentest-tools.com/information-gathering/find-subdomains-of-domain"
+        },
+        {
+          "name": "SecLists DNS Subdomains (T)",
+          "type": "url",
+          "url": "https://github.com/danielmiessler/SecLists/tree/master/Discovery/DNS"
+        },
+        {
+          "name": "dnspop (T)",
+          "type": "url",
+          "url": "https://github.com/bitquark/dnspop"
+        },
+        {
+          "name": "gdns (T)",
+          "type": "url",
+          "url": "https://github.com/hrbrmstr/gdns"
+        },
+        {
+          "name": "assetnote (T)",
+          "type": "url",
+          "url": "https://github.com/infosec-au/assetnote"
+        },
+        {
+          "name": "Sublist3r",
+          "type": "url",
+          "url": "https://github.com/aboul3la/Sublist3r"
+        },
+        {
+          "name": "AltDNS (T)",
+          "type": "url",
+          "url": "https://github.com/infosec-au/altdns"
+        },
+        {
+          "name": "Netlas.io",
+          "type": "url",
+          "url": "https://app.netlas.io/domains/"
+        }
+      ]
+    },
+    {
+      "name": "Discovery",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Shodan",
+          "type": "url",
+          "url": "https://www.shodan.io/"
+        },
+        {
+          "name": "Netlas.io",
+          "type": "url",
+          "url": "https://app.netlas.io/"
+        },
+        {
+          "name": "ODIN (R)",
+          "type": "url",
+          "url": "https://www.getodin.com/"
+        },
+        {
+          "name": "Kraken",
+          "type": "url",
+          "url": "https://github.com/Sw4mpf0x/Kraken"
+        },
+        {
+          "name": "Online Nikto scanner",
+          "type": "url",
+          "url": "https://nikto.online/"
+        },
+        {
+          "name": "urlscan.io",
+          "type": "url",
+          "url": "https://urlscan.io/search/#*"
+        },
+        {
+          "name": "Daily DNS Changes",
+          "type": "url",
+          "url": "http://www.dailychanges.com/"
+        },
+        {
+          "name": "SameID",
+          "type": "url",
+          "url": "http://sameid.net/"
+        },
+        {
+          "name": "Redirect Detective",
+          "type": "url",
+          "url": "http://redirectdetective.com/"
+        },
+        {
+          "name": "Sitediff",
+          "type": "url",
+          "url": "https://github.com/digininja/sitediff"
+        },
+        {
+          "name": "AnalyzeID",
+          "type": "url",
+          "url": "http://analyzeid.com/"
+        },
+        {
+          "name": "urlDNA",
+          "type": "url",
+          "url": "https://urldna.io"
+        }
+      ]
+    },
+    {
+      "name": "Certificate Search",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Google's Certificate Transparency",
+          "type": "url",
+          "url": "https://www.certificate-transparency.org/known-logs"
+        },
+        {
+          "name": "Spyse",
+          "type": "url",
+          "url": "https://spyse.com/search/certificate"
+        },
+        {
+          "name": "Censys",
+          "type": "url",
+          "url": "https://censys.io/"
+        },
+        {
+          "name": "crt.sh - Certificate Search",
+          "type": "url",
+          "url": "https://crt.sh/?"
+        },
+        {
+          "name": "certgraph (T)",
+          "type": "url",
+          "url": "https://github.com/lanrat/certgraph"
+        },
+        {
+          "name": "ODIN (R)",
+          "type": "url",
+          "url": "https://www.getodin.com/"
+        },
+        {
+          "name": "Netlas.io",
+          "type": "url",
+          "url": "https://app.netlas.io/certs/"
+        }
+      ]
+    },
+    {
+      "name": "PassiveDNS",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Security Trails",
+          "type": "url",
+          "url": "https://securitytrails.com/"
+        },
+        {
+          "name": "Mnemonic",
+          "type": "url",
+          "url": "http://passivedns.mnemonic.no/"
+        },
+        {
+          "name": "DNS History",
+          "type": "url",
+          "url": "http://dnshistory.org/"
+        },
+        {
+          "name": "PTRarchive.com",
+          "type": "url",
+          "url": "http://ptrarchive.com/"
+        },
+        {
+          "name": "DNS Dumpster",
+          "type": "url",
+          "url": "https://dnsdumpster.com/"
+        },
+        {
+          "name": "Deteque (R)",
+          "type": "url",
+          "url": "https://www.deteque.com/"
+        }
+      ]
+    },
+    {
+      "name": "Reputation",
+      "type": "folder",
+      "children": [
+        {
+          "name": "AbuseIPDB (Webpage and API)",
+          "type": "url",
+          "url": "https://www.abuseipdb.com/"
+        },
+        {
+          "name": "UrlQuery.net",
+          "type": "url",
+          "url": "http://urlquery.net/"
+        },
+        {
+          "name": "PassiveTotal",
+          "type": "url",
+          "url": "https://www.passivetotal.org/"
+        },
+        {
+          "name": "URL Void",
+          "type": "url",
+          "url": "http://www.urlvoid.com/"
+        },
+        {
+          "name": "Threat Crowd",
+          "type": "url",
+          "url": "https://www.threatcrowd.org/"
+        },
+        {
+          "name": "FortiGuard Reputation Service",
+          "type": "url",
+          "url": "http://fortiguard.com/iprep"
+        },
+        {
+          "name": "McAfee TrustedSource",
+          "type": "url",
+          "url": "http://www.trustedsource.org/"
+        },
+        {
+          "name": "Trend Micro Site Safety Center",
+          "type": "url",
+          "url": "https://global.sitesafety.trendmicro.com/"
+        },
+        {
+          "name": "WatchGuard ReputationAuthority",
+          "type": "url",
+          "url": "http://www.reputationauthority.org/"
+        },
+        {
+          "name": "Sucuri SiteCheck",
+          "type": "url",
+          "url": "https://sitecheck.sucuri.net/"
+        },
+        {
+          "name": "ThreatMiner.org",
+          "type": "url",
+          "url": "https://www.threatminer.org/"
+        },
+        {
+          "name": "BlueCoat WebPulse",
+          "type": "url",
+          "url": "https://sitereview.bluecoat.com/sitereview.jsp"
+        },
+        {
+          "name": "Zscaler Zulu URL Risk Analyzer",
+          "type": "url",
+          "url": "http://zulu.zscaler.com/"
+        },
+        {
+          "name": "Joe Sandbox Url Analyzer",
+          "type": "url",
+          "url": "https://www.url-analyzer.net/"
+        },
+        {
+          "name": "Deepviz Domain Search",
+          "type": "url",
+          "url": "https://search.deepviz.com/"
+        },
+        {
+          "name": "Cisco SenderBase",
+          "type": "url",
+          "url": "http://www.senderbase.org/"
+        },
+        {
+          "name": "AVG Threat Labs",
+          "type": "url",
+          "url": "http://www.avgthreatlabs.com/ww-en/website-safety-reports/"
+        },
+        {
+          "name": "Webroot BrightCloud URL/IP Lookup",
+          "type": "url",
+          "url": "http://www.brightcloud.com/tools/url-ip-lookup.php"
+        },
+        {
+          "name": "vURL Online",
+          "type": "url",
+          "url": "https://vurldissect.co.uk/"
+        },
+        {
+          "name": "AlienVault Open Threat Exchange",
+          "type": "url",
+          "url": "https://otx.alienvault.com/browse/pulses/"
+        },
+        {
+          "name": "Malware Domain List",
+          "type": "url",
+          "url": "http://www.malwaredomainlist.com/mdl.php"
+        },
+        {
+          "name": "Web Inspector Online Scan",
+          "type": "url",
+          "url": "http://app.webinspector.com/"
+        },
+        {
+          "name": "Google Safe Browsing API",
+          "type": "url",
+          "url": "https://developers.google.com/safe-browsing/?csw=1"
+        },
+        {
+          "name": "hpHosts Online",
+          "type": "url",
+          "url": "http://hosts-file.net/"
+        }
+      ]
+    },
+    {
+      "name": "Domain Blacklists",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Ransomware Tracker Abuse.ch",
+          "type": "url",
+          "url": "http://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt"
+        },
+        {
+          "name": "Threatexpert.com Malicious URLs",
+          "type": "url",
+          "url": "http://www.networksec.org/grabbho/block.txt"
+        },
+        {
+          "name": "Zeus C2 Tracker",
+          "type": "url",
+          "url": "https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist"
+        },
+        {
+          "name": "Malware Domains Blacklist",
+          "type": "url",
+          "url": "http://mirror1.malwaredomains.com/files/domains.txt"
+        },
+        {
+          "name": "Blackweb",
+          "type": "url",
+          "url": "https://github.com/maravento/blackweb"
+        },
+        {
+          "name": "Critical Stack Intel (R)",
+          "type": "url",
+          "url": "https://intel.criticalstack.com/"
+        },
+        {
+          "name": "DNS Sinkhole",
+          "type": "url",
+          "url": "http://malc0de.com/bl/"
+        },
+        {
+          "name": "DNS-BH Malware Domain Blocklist",
+          "type": "url",
+          "url": "http://www.malwaredomains.com/wordpress/?page_id=66"
+        },
+        {
+          "name": "Malware Domain List",
+          "type": "url",
+          "url": "http://www.malwaredomainlist.com/hostslist/hosts.txt"
+        },
+        {
+          "name": "Malware Patrol (R)",
+          "type": "url",
+          "url": "http://www.malware.com.br/open-source.shtml"
+        },
+        {
+          "name": "MalwareURL (R)",
+          "type": "url",
+          "url": "http://www.malwareurl.com/index.php"
+        },
+        {
+          "name": "scumware.org",
+          "type": "url",
+          "url": "https://www.scumware.org/"
+        },
+        {
+          "name": "ZeuS Tracker",
+          "type": "url",
+          "url": "https://zeustracker.abuse.ch/blocklist.php"
+        },
+        {
+          "name": "Shadowserver Foundation",
+          "type": "url",
+          "url": "http://www.shadowserver.org/wiki/pmwiki.php?n=Services/Reports"
+        },
+        {
+          "name": "Email Domain Validation",
+          "type": "url",
+          "url": "https://www.mailboxvalidator.com/domain"
+        }
+      ]
+    },
+    {
+      "name": "Typosquatting",
+      "type": "folder",
+      "children": [
+        {
+          "name": "DNS Twist (T)",
+          "type": "url",
+          "url": "https://github.com/elceef/dnstwist"
+        },
+        {
+          "name": "URLCrazy (T)",
+          "type": "url",
+          "url": "http://www.morningstarsecurity.com/research/urlcrazy"
+        },
+        {
+          "name": "dnstwister",
+          "type": "url",
+          "url": "https://dnstwister.report/"
+        },
+        {
+          "name": "Catphish (T)",
+          "type": "url",
+          "url": "https://github.com/ring0lab/catphish"
+        }
+      ]
+    },
+    {
+      "name": "Analytics",
+      "type": "folder",
+      "children": [
+        {
+          "name": "BuiltWith",
+          "type": "url",
+          "url": "http://builtwith.com/"
+        },
+        {
+          "name": "SiteSleuth",
+          "type": "url",
+          "url": "https://www.sitesleuth.io/"
+        },
+        {
+          "name": "Wappalyzer (T)",
+          "type": "url",
+          "url": "https://wappalyzer.com/"
+        },
+        {
+          "name": "SEMrush",
+          "type": "url",
+          "url": "https://www.semrush.com/"
+        },
+        {
+          "name": "TopGainers",
+          "type": "url",
+          "url": "https://topgainers.net/"
+        },
+        {
+          "name": "Moonsearch",
+          "type": "url",
+          "url": "http://moonsearch.com/"
+        },
+        {
+          "name": "StackShare",
+          "type": "url",
+          "url": "https://stackshare.io/"
+        },
+        {
+          "name": "Ewhois",
+          "type": "url",
+          "url": "https://ewhois.com/"
+        },
+        {
+          "name": "Netcraft",
+          "type": "url",
+          "url": "http://toolbar.netcraft.com/site_report?url=undefined#last_reboot"
+        },
+        {
+          "name": "StatsCrop",
+          "type": "url",
+          "url": "http://www.statscrop.com/"
+        },
+        {
+          "name": "Open Site Explorer",
+          "type": "url",
+          "url": "https://moz.com/researchtools/ose/"
+        },
+        {
+          "name": "SpyOnWeb",
+          "type": "url",
+          "url": "http://www.spyonweb.com/"
+        },
+        {
+          "name": "SecurityHeaders.io",
+          "type": "url",
+          "url": "https://securityheaders.io/"
+        },
+        {
+          "name": "Keyword Density",
+          "type": "url",
+          "url": "http://tools.seobook.com/general/keyword-density/"
+        },
+        {
+          "name": "Alexa Site Statistics",
+          "type": "url",
+          "url": "http://www.alexa.com/siteinfo"
+        },
+        {
+          "name": "Cisco Umbrella Popularity List",
+          "type": "url",
+          "url": "http://s3-us-west-1.amazonaws.com/umbrella-static/index.html"
+        },
+        {
+          "name": "Alexa Top 500 Global Sites",
+          "type": "url",
+          "url": "http://www.alexa.com/topsites"
+        },
+        {
+          "name": "W3bin.com",
+          "type": "url",
+          "url": "https://w3bin.com/"
+        },
+        {
+          "name": "Sitedossier",
+          "type": "url",
+          "url": "http://www.sitedossier.com/"
+        },
+        {
+          "name": "Visual Site Mapper",
+          "type": "url",
+          "url": "http://www.visualsitemapper.com/"
+        },
+        {
+          "name": "ClearWebStats.com",
+          "type": "url",
+          "url": "https://www.clearwebstats.com/"
+        },
+        {
+          "name": "PubDB",
+          "type": "url",
+          "url": "http://pub-db.com/"
+        },
+        {
+          "name": "WWW Domain Tools",
+          "type": "url",
+          "url": "https://w3dt.net/"
+        },
+        {
+          "name": "SimilarWeb",
+          "type": "url",
+          "url": "https://www.similarweb.com/"
+        },
+        {
+          "name": "Website Outlook",
+          "type": "url",
+          "url": "http://websiteoutlook.com/"
+        },
+        {
+          "name": "Siteliner",
+          "type": "url",
+          "url": "http://siteliner.com/"
+        },
+        {
+          "name": "WebPagetest",
+          "type": "url",
+          "url": "https://www.webpagetest.org/"
+        },
+        {
+          "name": "WhatWeb",
+          "type": "url",
+          "url": "https://github.com/urbanadventurer/WhatWeb"
+        }
+      ]
+    },
+    {
+      "name": "URL Expanders",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Link Expander",
+          "type": "url",
+          "url": "http://www.linkexpander.com/"
+        },
+        {
+          "name": "GetLinkInfo",
+          "type": "url",
+          "url": "http://www.getlinkinfo.com/"
+        },
+        {
+          "name": "CheckShortURL",
+          "type": "url",
+          "url": "http://checkshorturl.com/"
+        },
+        {
+          "name": "Lengthen Me",
+          "type": "url",
+          "url": "https://lengthen.me/"
+        },
+        {
+          "name": "URL Expander",
+          "type": "url",
+          "url": "http://urlex.org/"
+        },
+        {
+          "name": "URL Unshortener",
+          "type": "url",
+          "url": "http://www.urlunshortener.com/"
+        },
+        {
+          "name": "Where Does This Link Go?",
+          "type": "url",
+          "url": "http://wheredoesthislinkgo.com/"
+        },
+        {
+          "name": "KnowURL",
+          "type": "url",
+          "url": "http://www.knowurl.com/"
+        }
+      ]
+    },
+    {
+      "name": "Change Detection",
+      "type": "folder",
+      "children": [
+        {
+          "name": "VisualPing",
+          "type": "url",
+          "url": "http://visualping.io/"
+        },
+        {
+          "name": "Change Detection",
+          "type": "url",
+          "url": "http://www.changedetection.com/"
+        },
+        {
+          "name": "Check site availability Online",
+          "type": "url",
+          "url": "https://upcheck.online/"
+        },
+        {
+          "name": "Follow That Page",
+          "type": "url",
+          "url": "https://www.followthatpage.com/"
+        },
+        {
+          "name": "Urlwatch",
+          "type": "url",
+          "url": "https://github.com/thp/urlwatch"
+        },
+        {
+          "name": "WatchThatPage",
+          "type": "url",
+          "url": "http://watchthatpage.com/"
+        },
+        {
+          "name": "ChangeDetect",
+          "type": "url",
+          "url": "http://www.changedetect.com/"
+        }
+      ]
+    },
+    {
+      "name": "Social Analysis",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Google Trends",
+          "type": "url",
+          "url": "https://www.google.com/trends/"
+        },
+        {
+          "name": "Reddit (M)",
+          "type": "url",
+          "url": "https://www.reddit.com/domain/%3CURLhere%3E"
+        }
+      ]
+    },
+    {
+      "name": "DNSSEC",
+      "type": "folder",
+      "children": [
+        {
+          "name": "DNSSEC Analyzer",
+          "type": "url",
+          "url": "http://dnssec-debugger.verisignlabs.com/"
+        },
+        {
+          "name": "DNSViz",
+          "type": "url",
+          "url": "http://dnsviz.net/"
+        }
+      ]
+    },
+    {
+      "name": "Cloud Resources",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Public Buckets",
+          "type": "url",
+          "url": "https://buckets.grayhatwarfare.com/"
+        },
+        {
+          "name": "Online Port scanner",
+          "type": "url",
+          "url": "https://portscanner.online/"
+        },
+        {
+          "name": "CloudScraper (T)",
+          "type": "url",
+          "url": "https://github.com/jordanpotti/cloudscraper"
+        },
+        {
+          "name": "Check site availability Online",
+          "type": "url",
+          "url": "https://upcheck.online/"
+        }
+      ]
+    },
+    {
+      "name": "Vulnerabilities",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Scanners",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Sn1per (T)",
+              "type": "url",
+              "url": "https://github.com/1N3/Sn1per"
+            },
+            {
+              "name": "Online Nikto scanner",
+              "type": "url",
+              "url": "https://nikto.online/"
+            }
+          ]
+        },
+        {
+          "name": "Disclosure Sites",
+          "type": "folder",
+          "children": [
+            {
+              "name": "XSSposed.org",
+              "type": "url",
+              "url": "https://www.xssposed.org/"
+            },
+            {
+              "name": "Zone-H.org",
+              "type": "url",
+              "url": "http://zone-h.org/archive"
+            }
+          ]
+        },
+        {
+          "name": "RobotsDisallowed",
+          "type": "url",
+          "url": "https://github.com/danielmiessler/RobotsDisallowed"
+        }
+      ]
+    },
+    {
+      "name": "Tools",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Belati (T)",
+          "type": "url",
+          "url": "https://github.com/aancw/Belati"
+        },
+        {
+          "name": "BlackWidow (T)",
+          "type": "url",
+          "url": "https://softbytelabs.com/wp/blackwidow/"
+        },
+        {
+          "name": "Burp Suite (T)",
+          "type": "url",
+          "url": "https://portswigger.net/burp/"
+        },
+        {
+          "name": "EyeWitness (T)",
+          "type": "url",
+          "url": "https://github.com/ChrisTruncer/EyeWitness"
+        },
+        {
+          "name": "IntelliTamper (T)",
+          "type": "url",
+          "url": "http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml"
+        },
+        {
+          "name": "Hunting-New-Registered-Domains (T)",
+          "type": "url",
+          "url": "https://github.com/gfek/Hunting-New-Registered-Domains"
+        },
+        {
+          "name": "International Domain Name Conversion Tool",
+          "type": "url",
+          "url": "http://mct.verisign-grs.com/"
+        },
+        {
+          "name": "Online Nikto scanner",
+          "type": "url",
+          "url": "https://nikto.online/"
+        }
+      ]
+    },
+    {
+      "name": "Report Malicious Sites",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Microsoft",
+          "type": "url",
+          "url": "https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site-guest"
+        },
+        {
+          "name": "Google",
+          "type": "url",
+          "url": "https://safebrowsing.google.com/safebrowsing/report_phish/?hl=en"
+        }
+      ]
+    }
+  ]
+}

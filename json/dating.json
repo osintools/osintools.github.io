@@ -1,0 +1,96 @@
+{
+  "name": "Dating",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Match.com",
+      "type": "url",
+      "url": "http://www.match.com/"
+    },
+    {
+      "name": "AYI.com",
+      "type": "url",
+      "url": "https://www.ayi.com/index.php"
+    },
+    {
+      "name": "Plenty Of Fish.com",
+      "type": "url",
+      "url": "http://www.pof.com/"
+    },
+    {
+      "name": "eHarmony",
+      "type": "url",
+      "url": "http://www.eharmony.com/"
+    },
+    {
+      "name": "Farmers Only",
+      "type": "url",
+      "url": "http://www.farmersonly.com/"
+    },
+    {
+      "name": "Zoosk",
+      "type": "url",
+      "url": "https://www.zoosk.com/"
+    },
+    {
+      "name": "OkCupid",
+      "type": "url",
+      "url": "https://www.okcupid.com/"
+    },
+    {
+      "name": "Tinder (R)",
+      "type": "url",
+      "url": "https://tinder.com/"
+    },
+    {
+      "name": "Wamba.com",
+      "type": "url",
+      "url": "http://wamba.com/"
+    },
+    {
+      "name": "AdultFriendFinder",
+      "type": "url",
+      "url": "http://adultfriendfinder.com/"
+    },
+    {
+      "name": "Ashley Madison",
+      "type": "url",
+      "url": "https://www.ashleymadison.com/"
+    },
+    {
+      "name": "BeautifulPeople.com",
+      "type": "url",
+      "url": "https://www.beautifulpeople.com/en-US"
+    },
+    {
+      "name": "Badoo",
+      "type": "url",
+      "url": "https://badoo.us/"
+    },
+    {
+      "name": "Spark.com",
+      "type": "url",
+      "url": "https://www.spark.com/"
+    },
+    {
+      "name": "Meetup",
+      "type": "url",
+      "url": "http://www.meetup.com/"
+    },
+    {
+      "name": "BlackPeopleMeet",
+      "type": "url",
+      "url": "http://www.blackpeoplemeet.com/"
+    },
+    {
+      "name": "Bumble",
+      "type": "url",
+      "url": "https://bumble.com/"
+    },
+    {
+      "name": "Hinge",
+      "type": "url",
+      "url": "https://hinge.co/en-gb"
+    }
+  ]
+}

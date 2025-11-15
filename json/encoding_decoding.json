@@ -1,0 +1,143 @@
+{
+  "name": "Encoding / Decoding",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Base64",
+      "type": "folder",
+      "children": []
+    },
+    {
+      "name": "Barcodes / QR",
+      "type": "folder",
+      "children": [
+        {
+          "name": "ClearImage Barcode Reader",
+          "type": "url",
+          "url": "http://online-barcode-reader.inliteresearch.com/"
+        }
+      ]
+    },
+    {
+      "name": "Javascript",
+      "type": "folder",
+      "children": [
+        {
+          "name": "JS Beautifier",
+          "type": "url",
+          "url": "http://jsbeautifier.org/"
+        },
+        {
+          "name": "JS NICE",
+          "type": "url",
+          "url": "http://jsnice.org/"
+        },
+        {
+          "name": "Firebug (T)",
+          "type": "url",
+          "url": "https://getfirebug.com/downloads/"
+        },
+        {
+          "name": "SpiderMonkey (T)",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey"
+        },
+        {
+          "name": "Kahu Revelo (T)",
+          "type": "url",
+          "url": "http://www.kahusecurity.com/tools/"
+        },
+        {
+          "name": "JavaScript Deobfuscator (T)",
+          "type": "url",
+          "url": "https://addons.mozilla.org/en-US/firefox/addon/javascript-deobfuscator/"
+        }
+      ]
+    },
+    {
+      "name": "PHP",
+      "type": "folder",
+      "children": [
+        {
+          "name": "DDecode - PHP Decoder",
+          "type": "url",
+          "url": "http://ddecode.com/phpdecoder/"
+        }
+      ]
+    },
+    {
+      "name": "XOR",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Unix",
+          "type": "folder",
+          "children": [
+            {
+              "name": "XORSearch & XORStrings (T)",
+              "type": "url",
+              "url": "http://blog.didierstevens.com/programs/xorsearch/"
+            },
+            {
+              "name": "xortool (T)",
+              "type": "url",
+              "url": "https://github.com/hellman/xortool"
+            },
+            {
+              "name": "unxor (T)",
+              "type": "url",
+              "url": "https://github.com/tomchop/unxor"
+            }
+          ]
+        },
+        {
+          "name": "Windows",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Kahu Converter Utilities (T)",
+              "type": "url",
+              "url": "http://www.kahusecurity.com/tools/"
+            }
+          ]
+        },
+        {
+          "name": "Python",
+          "type": "folder",
+          "children": [
+            {
+              "name": "iheartxor.py (T)",
+              "type": "url",
+              "url": "http://hooked-on-mnemonics.blogspot.com/p/iheartxor.html"
+            },
+            {
+              "name": "XORBruteForcer.py (T)",
+              "type": "url",
+              "url": "http://eternal-todo.com/var/scripts/xorbruteforcer"
+            },
+            {
+              "name": "NoMoreXOR.py (T)",
+              "type": "url",
+              "url": "https://github.com/hiddenillusion/NoMoreXOR"
+            },
+            {
+              "name": "Balbuzard (T)",
+              "type": "url",
+              "url": "https://bitbucket.org/decalage/balbuzard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CyberChef",
+      "type": "url",
+      "url": "https://gchq.github.io/CyberChef/"
+    },
+    {
+      "name": "Functions Online",
+      "type": "url",
+      "url": "https://www.functions-online.com/"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "name": "Digital Currency",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Bitcoin",
+      "type": "folder",
+      "children": [
+        {
+          "name": "OXT",
+          "type": "url",
+          "url": "https://oxt.me"
+        },
+        {
+          "name": "Blocktrail",
+          "type": "url",
+          "url": "https://www.blocktrail.com/BTC"
+        },
+        {
+          "name": "Blockchain.info",
+          "type": "url",
+          "url": "https://blockchain.info/"
+        },
+        {
+          "name": "Block Explorer",
+          "type": "url",
+          "url": "https://blockexplorer.com/"
+        },
+        {
+          "name": "Blockr.io",
+          "type": "url",
+          "url": "http://blockr.io/"
+        },
+        {
+          "name": "BitRef",
+          "type": "url",
+          "url": "https://bitref.com/"
+        },
+        {
+          "name": "Wallet Explorer",
+          "type": "url",
+          "url": "https://www.walletexplorer.com/"
+        },
+        {
+          "name": "Graphsense",
+          "type": "url",
+          "url": "https://graphsense.info/"
+        },
+        {
+          "name": "Blockonomics",
+          "type": "url",
+          "url": "https://www.blockonomics.co/"
+        },
+        {
+          "name": "Bitcoin Who's Who",
+          "type": "url",
+          "url": "http://bitcoinwhoswho.com/"
+        },
+        {
+          "name": "Orbit (T)",
+          "type": "url",
+          "url": "https://github.com/s0md3v/Orbit"
+        }
+      ]
+    },
+    {
+      "name": "Ethereum",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Ether.Camp",
+          "type": "url",
+          "url": "https://live.ether.camp/transactions"
+        },
+        {
+          "name": "etherchain.org",
+          "type": "url",
+          "url": "https://etherchain.org/accounts/"
+        },
+        {
+          "name": "Etherscan",
+          "type": "url",
+          "url": "https://etherscan.io/"
+        }
+      ]
+    },
+    {
+      "name": "Monero",
+      "type": "folder",
+      "children": [
+        {
+          "name": "XMRChain.net",
+          "type": "url",
+          "url": "https://xmrchain.net/"
+        },
+        {
+          "name": "Monero Blocks",
+          "type": "url",
+          "url": "http://moneroblocks.info/"
+        },
+        {
+          "name": "Chain Radar",
+          "type": "url",
+          "url": "https://chainradar.com/xmr/blocks"
+        }
+      ]
+    }
+  ]
+}

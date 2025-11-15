@@ -1,0 +1,195 @@
+{
+  "name": "Tools",
+  "type": "folder",
+  "children": [
+    {
+      "name": "OSINT Automation",
+      "type": "folder",
+      "children": [
+        {
+          "name": "DataSploit (T)",
+          "type": "url",
+          "url": "https://github.com/datasploit/datasploit/"
+        },
+        {
+          "name": "SpiderFoot (T)",
+          "type": "url",
+          "url": "http://www.spiderfoot.net/"
+        },
+        {
+          "name": "ThreatPipes (T)",
+          "type": "url",
+          "url": "https://www.threatpipes.com"
+        },
+        {
+          "name": "Omnibus (T)",
+          "type": "url",
+          "url": "https://github.com/InQuest/omnibus"
+        },
+        {
+          "name": "Photon (T)",
+          "type": "url",
+          "url": "https://github.com/s0md3v/Photon"
+        },
+        {
+          "name": "ReconDog (T)",
+          "type": "url",
+          "url": "https://github.com/s0md3v/ReconDog"
+        },
+        {
+          "name": "IFTTT",
+          "type": "url",
+          "url": "https://ifttt.com/"
+        },
+        {
+          "name": "Stringify",
+          "type": "url",
+          "url": "https://www.stringify.com/"
+        },
+        {
+          "name": "Intrigue.io (T)",
+          "type": "url",
+          "url": "https://intrigue.io/"
+        },
+        {
+          "name": "OSRFramework (T)",
+          "type": "url",
+          "url": "https://github.com/i3visio/osrframework"
+        },
+        {
+          "name": "Inquisitor (T)",
+          "type": "url",
+          "url": "https://github.com/penafieljlm/inquisitor"
+        },
+        {
+          "name": "AutoOSINT (T)",
+          "type": "url",
+          "url": "https://github.com/bharshbarger/AutOSINT"
+        },
+        {
+          "name": "IntRec-Pack (T)",
+          "type": "url",
+          "url": "https://github.com/NullArray/IntRec-Pack"
+        },
+        {
+          "name": "OSINT-SPY (T)",
+          "type": "url",
+          "url": "https://github.com/SharadKumar97/OSINT-SPY"
+        },
+        {
+          "name": "Microsoft Flow",
+          "type": "url",
+          "url": "https://flow.microsoft.com/en-us/"
+        },
+        {
+          "name": "PhoneInfoga (T)",
+          "type": "url",
+          "url": "https://github.com/sundowndev/PhoneInfoga"
+        },
+        {
+          "name": "IntelligenceX",
+          "type": "url",
+          "url": "https://intelx.io/"
+        },
+        {
+          "name": "Analyst Research Tools",
+          "type": "url",
+          "url": "https://analystresearchtools.com"
+        }
+      ]
+    },
+    {
+      "name": "Pentesting Recon",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Low Hanging Fruit (T)",
+          "type": "url",
+          "url": "https://github.com/blindfuzzy/LHF"
+        }
+      ]
+    },
+    {
+      "name": "Virtual Machines",
+      "type": "folder",
+      "children": [
+        {
+          "name": "VMware Workstation Player (T)",
+          "type": "url",
+          "url": "http://www.vmware.com/products/player/playerpro-evaluation.html"
+        },
+        {
+          "name": "VirtualBox (T)",
+          "type": "url",
+          "url": "https://www.virtualbox.org/"
+        },
+        {
+          "name": "Buscador OS (T)",
+          "type": "url",
+          "url": "https://inteltechniques.com/buscador/index.html"
+        },
+        {
+          "name": "Kali Linux OS (T)",
+          "type": "url",
+          "url": "https://www.kali.org/"
+        },
+        {
+          "name": "ParrotSec OS (T)",
+          "type": "url",
+          "url": "https://www.parrotsec.org/"
+        },
+        {
+          "name": "Microsoft Edge Development OS VMs (T)",
+          "type": "url",
+          "url": "https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/"
+        },
+        {
+          "name": "Subgraph OS (T)",
+          "type": "url",
+          "url": "https://subgraph.com/index.en.html"
+        },
+        {
+          "name": "Tails Live OS (T)",
+          "type": "url",
+          "url": "https://tails.boum.org/"
+        },
+        {
+          "name": "Whonix (T)",
+          "type": "url",
+          "url": "https://www.whonix.org/wiki/Main_Page"
+        }
+      ]
+    },
+    {
+      "name": "Wordlist",
+      "type": "folder",
+      "children": [
+        {
+          "name": "OWASP D4N155 (T)",
+          "type": "url",
+          "url": "https://github.com/OWASP/D4N155"
+        },
+        {
+          "name": "W Generator",
+          "type": "url",
+          "url": "https://app.wgen.io/"
+        }
+      ]
+    },
+    {
+      "name": "Paterva / Maltego (T)",
+      "type": "url",
+      "url": "https://www.maltego.com/"
+    },
+    {
+      "name": "Overview",
+      "type": "url",
+      "url": "https://www.overviewdocs.com/"
+    },
+    {
+      "name": "Online Nikto scanner",
+      "type": "url",
+      "url": "https://nikto.online/"
+    }
+  ]
+}
