@@ -1,0 +1,556 @@
+{
+  "name": "Search Engines",
+  "type": "folder",
+  "children": [
+    {
+      "name": "General Search",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Google",
+          "type": "url",
+          "url": "https://www.google.com/?gws_rd=ssl"
+        },
+        {
+          "name": "Bing",
+          "type": "url",
+          "url": "http://www.bing.com/"
+        },
+        {
+          "name": "DuckDuckGo",
+          "type": "url",
+          "url": "https://duckduckgo.com/"
+        },
+        {
+          "name": "Yahoo Advanced Web Search",
+          "type": "url",
+          "url": "https://search.yahoo.com/web/advanced"
+        },
+        {
+          "name": "StartPage",
+          "type": "url",
+          "url": "https://www.startpage.com/"
+        },
+        {
+          "name": "Yandex",
+          "type": "url",
+          "url": "https://www.yandex.com/"
+        },
+        {
+          "name": "Baidu",
+          "type": "url",
+          "url": "http://www.baidu.com/"
+        },
+        {
+          "name": "Google Advanced Search",
+          "type": "url",
+          "url": "https://www.google.com/advanced_search"
+        },
+        {
+          "name": "iBoogie",
+          "type": "url",
+          "url": "http://www.iboogie.com/"
+        },
+        {
+          "name": "iZito",
+          "type": "url",
+          "url": "http://www.izito.com/"
+        },
+        {
+          "name": "Bing vs. Google",
+          "type": "url",
+          "url": "http://bvsg.org/"
+        },
+        {
+          "name": "Ixquick Search Engine",
+          "type": "url",
+          "url": "https://www.ixquick.com/"
+        },
+        {
+          "name": "Advangle",
+          "type": "url",
+          "url": "http://advangle.com/"
+        },
+        {
+          "name": "Instya",
+          "type": "url",
+          "url": "http://www.instya.com/#/web/"
+        },
+        {
+          "name": "Hulbee",
+          "type": "url",
+          "url": "https://hulbee.com/"
+        },
+        {
+          "name": "Swisscows",
+          "type": "url",
+          "url": "https://swisscows.com/"
+        },
+        {
+          "name": "Brave",
+          "type": "url",
+          "url": "https://search.brave.com/"
+        },
+        {
+          "name": "Stract",
+          "type": "url",
+          "url": "https://stract.com/"
+        }
+      ]
+    },
+    {
+      "name": "Meta Search",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Shuriken",
+          "type": "url",
+          "url": "http://shuriken.pm"
+        },
+        {
+          "name": "iSEEK",
+          "type": "url",
+          "url": "http://iseek.com/iseek/home.page"
+        },
+        {
+          "name": "Biznar",
+          "type": "url",
+          "url": "http://biznar.com/biznar/desktop/en/search.html"
+        },
+        {
+          "name": "eTools.ch",
+          "type": "url",
+          "url": "https://www.etools.ch/"
+        },
+        {
+          "name": "searx.me",
+          "type": "url",
+          "url": "https://searx.me/"
+        },
+        {
+          "name": "WhosTalkin",
+          "type": "url",
+          "url": "http://www.whostalkin.com/"
+        },
+        {
+          "name": "AnswerThePublic.com",
+          "type": "url",
+          "url": "http://answerthepublic.com/"
+        }
+      ]
+    },
+    {
+      "name": "Code Search",
+      "type": "folder",
+      "children": [
+        {
+          "name": "PublicWWW",
+          "type": "url",
+          "url": "https://publicwww.com/"
+        },
+        {
+          "name": "Searchcode",
+          "type": "url",
+          "url": "https://searchcode.com/"
+        },
+        {
+          "name": "NerdyData",
+          "type": "url",
+          "url": "https://nerdydata.com/search"
+        },
+        {
+          "name": "Gitrob (T)",
+          "type": "url",
+          "url": "https://github.com/michenriksen/gitrob"
+        },
+        {
+          "name": "Github-Dorks (T)",
+          "type": "url",
+          "url": "https://github.com/techgaun/github-dorks"
+        },
+        {
+          "name": "GitLeaks",
+          "type": "url",
+          "url": "https://github.com/zricethezav/gitleaks"
+        }
+      ]
+    },
+    {
+      "name": "FTP Search",
+      "type": "folder",
+      "children": [
+        {
+          "name": "GlobalFile",
+          "type": "url",
+          "url": "https://globalfilesearch.com/"
+        },
+        {
+          "name": "FTP Google Dork (D)",
+          "type": "url",
+          "url": "https://www.google.com/search?q=inurl%3Aftp+-inurl%3Ahttp+-inurl%3Ahttps+ftpsearchterm"
+        },
+        {
+          "name": "Napalm FTP",
+          "type": "url",
+          "url": "http://www.searchftps.net/"
+        }
+      ]
+    },
+    {
+      "name": "Academic / Publication Search",
+      "type": "folder",
+      "children": [
+        {
+          "name": "PubPeer",
+          "type": "url",
+          "url": "https://pubpeer.com/"
+        },
+        {
+          "name": "Bielefeld Academic Search Engine",
+          "type": "url",
+          "url": "https://www.base-search.net/Search/Advanced"
+        },
+        {
+          "name": "Google Scholar",
+          "type": "url",
+          "url": "https://scholar.google.com/"
+        },
+        {
+          "name": "PubMed - National Center for Biotechnology Information",
+          "type": "url",
+          "url": "http://www.ncbi.nlm.nih.gov/pubmed/"
+        },
+        {
+          "name": "Social Science Research Network",
+          "type": "url",
+          "url": "http://ssrn.com/en/"
+        },
+        {
+          "name": "Open Library",
+          "type": "url",
+          "url": "https://openlibrary.org/"
+        },
+        {
+          "name": "World Digital Library",
+          "type": "url",
+          "url": "https://www.wdl.org/en/"
+        },
+        {
+          "name": "JURN",
+          "type": "url",
+          "url": "http://jurn.org/#gsc.tab=0"
+        },
+        {
+          "name": "HathiTrust Digital Library",
+          "type": "url",
+          "url": "https://www.hathitrust.org/"
+        },
+        {
+          "name": "UK National Archives",
+          "type": "url",
+          "url": "http://discovery.nationalarchives.gov.uk/"
+        },
+        {
+          "name": "OpenGrey EU Papers",
+          "type": "url",
+          "url": "http://opengrey.eu/"
+        },
+        {
+          "name": "US Gov Publishing Office - FDsys",
+          "type": "url",
+          "url": "https://www.gpo.gov/fdsys/"
+        },
+        {
+          "name": "OpenDOAR",
+          "type": "url",
+          "url": "http://www.opendoar.org/search.php"
+        },
+        {
+          "name": "Microsoft Academic",
+          "type": "url",
+          "url": "https://academic.microsoft.com/"
+        },
+        {
+          "name": "Science Direct",
+          "type": "url",
+          "url": "http://www.sciencedirect.com/"
+        },
+        {
+          "name": "PQDT Open",
+          "type": "url",
+          "url": "http://pqdtopen.proquest.com/search.html"
+        },
+        {
+          "name": "Think Tank Search",
+          "type": "url",
+          "url": "http://guides.library.harvard.edu/hks/think_tank_search"
+        },
+        {
+          "name": "Library Databases",
+          "type": "url",
+          "url": "http://guides.uflib.ufl.edu/az.php"
+        },
+        {
+          "name": "Copyscape Plagiarism Checker",
+          "type": "url",
+          "url": "http://copyscape.com/"
+        },
+        {
+          "name": "Lazy Scholar (T)",
+          "type": "url",
+          "url": "http://www.lazyscholar.org/"
+        },
+        {
+          "name": "Open Access Scholarly Journals",
+          "type": "url",
+          "url": "http://www.pagepress.org/"
+        },
+        {
+          "name": "The Open Syllabus Project",
+          "type": "url",
+          "url": "http://explorer.opensyllabusproject.org/"
+        },
+        {
+          "name": "Science Publications",
+          "type": "url",
+          "url": "http://www.thescipub.com/"
+        },
+        {
+          "name": "arXiv.org",
+          "type": "url",
+          "url": "https://arxiv.org/"
+        }
+      ]
+    },
+    {
+      "name": "News Search",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Paperboy Online Newspapers",
+          "type": "url",
+          "url": "http://www.thepaperboy.com/"
+        },
+        {
+          "name": "Google News Search",
+          "type": "url",
+          "url": "https://news.google.com/news/advanced_news_search?"
+        },
+        {
+          "name": "Flipboard",
+          "type": "url",
+          "url": "https://flipboard.com/"
+        },
+        {
+          "name": "YouGotTheNews",
+          "type": "url",
+          "url": "http://www.yougotthenews.com/"
+        },
+        {
+          "name": "NewspaperARCHIVE.com",
+          "type": "url",
+          "url": "http://newspaperarchive.com/"
+        },
+        {
+          "name": "PressReader.com",
+          "type": "url",
+          "url": "http://www.pressreader.com/"
+        },
+        {
+          "name": "Newspaper Map",
+          "type": "url",
+          "url": "http://newspapermap.com/"
+        },
+        {
+          "name": "NewsBrief",
+          "type": "url",
+          "url": "http://emm.newsbrief.eu/NewsBrief/clusteredition/en/latest.html"
+        },
+        {
+          "name": "AllYouCanRead.com",
+          "type": "url",
+          "url": "http://www.allyoucanread.com/"
+        },
+        {
+          "name": "World News",
+          "type": "url",
+          "url": "https://wn.com/#/search"
+        },
+        {
+          "name": "NewsNow.co.uk",
+          "type": "url",
+          "url": "http://www.newsnow.co.uk/h/"
+        },
+        {
+          "name": "Hubii",
+          "type": "url",
+          "url": "http://hubii.com/"
+        },
+        {
+          "name": "Inshorts",
+          "type": "url",
+          "url": "https://www.inshorts.com/en/read"
+        },
+        {
+          "name": "NewsBot",
+          "type": "url",
+          "url": "https://getnewsbot.com/"
+        }
+      ]
+    },
+    {
+      "name": "Other Search",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Colossus International Engine List",
+          "type": "url",
+          "url": "http://www.searchenginecolossus.com/"
+        },
+        {
+          "name": "AOL Search Database",
+          "type": "url",
+          "url": "http://search-id.com/"
+        },
+        {
+          "name": "Zenodo",
+          "type": "url",
+          "url": "https://zenodo.org/"
+        },
+        {
+          "name": "EntityCube",
+          "type": "url",
+          "url": "http://entitycube.research.microsoft.com/"
+        },
+        {
+          "name": "FindTheData A Research Engine",
+          "type": "url",
+          "url": "http://www.findthedata.com/"
+        }
+      ]
+    },
+    {
+      "name": "Search Tools",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Million Short",
+          "type": "url",
+          "url": "https://millionshort.com/"
+        },
+        {
+          "name": "SearchDiggity (T)",
+          "type": "url",
+          "url": "http://www.bishopfox.com/download/405/"
+        },
+        {
+          "name": "Scanner-inurlbr (T)",
+          "type": "url",
+          "url": "https://github.com/googleinurl/SCANNER-INURLBR"
+        },
+        {
+          "name": "Google Alerts",
+          "type": "url",
+          "url": "https://www.google.com/alerts#"
+        },
+        {
+          "name": "Google Custom Search Engine",
+          "type": "url",
+          "url": "https://cse.google.com/cse/"
+        },
+        {
+          "name": "pagodo - Passive Google Dork (T)",
+          "type": "url",
+          "url": "https://github.com/opsdisk/pagodo"
+        },
+        {
+          "name": "Talkwalker Alerts",
+          "type": "url",
+          "url": "http://www.talkwalker.com/alerts"
+        },
+        {
+          "name": "Google Trends",
+          "type": "url",
+          "url": "https://trends.google.com/trends/"
+        }
+      ]
+    },
+    {
+      "name": "Search Engine Guides",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Google Hacking Database",
+          "type": "url",
+          "url": "https://www.exploit-db.com/google-hacking-database/"
+        },
+        {
+          "name": "Google Search Operators Guide",
+          "type": "url",
+          "url": "http://googleguide.com/advanced_operators_reference.html"
+        },
+        {
+          "name": "Google Guide Cheat Sheet",
+          "type": "url",
+          "url": "http://googleguide.com/help/calculator.html"
+        }
+      ]
+    },
+    {
+      "name": "Fact Checking",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Hoaxy",
+          "type": "url",
+          "url": "https://hoaxy.iuni.iu.edu/"
+        },
+        {
+          "name": "Africa Check",
+          "type": "url",
+          "url": "https://africacheck.org/"
+        },
+        {
+          "name": "PolitiFact",
+          "type": "url",
+          "url": "http://www.politifact.com/"
+        },
+        {
+          "name": "SciCheck",
+          "type": "url",
+          "url": "http://www.factcheck.org/scicheck/"
+        },
+        {
+          "name": "Duke Reporters' Lab",
+          "type": "url",
+          "url": "http://reporterslab.org/fact-checking/"
+        },
+        {
+          "name": "Stop Fake Tools",
+          "type": "url",
+          "url": "http://www.stopfake.org/en/category/tools/"
+        },
+        {
+          "name": "Snopes",
+          "type": "url",
+          "url": "http://www.snopes.com/"
+        },
+        {
+          "name": "Verification Handbook",
+          "type": "url",
+          "url": "http://verificationhandbook.com/"
+        },
+        {
+          "name": "Verification Junkie",
+          "type": "url",
+          "url": "http://verificationjunkie.com/"
+        },
+        {
+          "name": "MediaBugs",
+          "type": "url",
+          "url": "http://mediabugs.org/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Metadata",
+  "type": "folder",
+  "children": [
+    {
+      "name": "ExifTool (T)",
+      "type": "url",
+      "url": "http://www.sno.phy.queensu.ca/~phil/exiftool/"
+    },
+    {
+      "name": "Metagoofil (T)",
+      "type": "url",
+      "url": "http://www.edge-security.com/metagoofil.php"
+    },
+    {
+      "name": "FOCA (T)",
+      "type": "url",
+      "url": "https://github.com/ElevenPaths/FOCA"
+    },
+    {
+      "name": "CodeTwo Outlook Export (T)",
+      "type": "url",
+      "url": "http://www.codetwo.com/freeware/outlook-export/"
+    }
+  ]
+}

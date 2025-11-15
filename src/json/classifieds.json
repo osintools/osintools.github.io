@@ -1,0 +1,71 @@
+{
+  "name": "Classifieds",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Craigslist",
+      "type": "url",
+      "url": "http://craigslist.org/"
+    },
+    {
+      "name": "Kijiji - Canada Classifieds",
+      "type": "url",
+      "url": "http://www.kijiji.ca/"
+    },
+    {
+      "name": "Quikr - India Classifieds",
+      "type": "url",
+      "url": "http://www.quikr.com/"
+    },
+    {
+      "name": "eBay",
+      "type": "url",
+      "url": "http://www.ebay.com/"
+    },
+    {
+      "name": "OfferUp",
+      "type": "url",
+      "url": "https://offerup.com/"
+    },
+    {
+      "name": "Goofbid",
+      "type": "url",
+      "url": "http://www.goofbid.com/"
+    },
+    {
+      "name": "Flippity",
+      "type": "url",
+      "url": "http://www.flippity.com/"
+    },
+    {
+      "name": "SearchAllJunk",
+      "type": "url",
+      "url": "http://www.searchalljunk.com/"
+    },
+    {
+      "name": "TotalCraigSearch",
+      "type": "url",
+      "url": "http://www.totalcraigsearch.com/"
+    },
+    {
+      "name": "Search Tempest",
+      "type": "url",
+      "url": "http://www.searchtempest.com/"
+    },
+    {
+      "name": "Oodle",
+      "type": "url",
+      "url": "http://www.oodle.com/"
+    },
+    {
+      "name": "Claz.org",
+      "type": "url",
+      "url": "http://claz.org/"
+    },
+    {
+      "name": "francais-a-londres.org - French Classifieds",
+      "type": "url",
+      "url": "http://francais-a-londres.org/"
+    }
+  ]
+}

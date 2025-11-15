@@ -1,0 +1,413 @@
+{
+  "name": "Social Networks",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Facebook",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Search",
+          "type": "folder",
+          "children": [
+            {
+              "name": "FB Email Search",
+              "type": "url",
+              "url": "https://www.facebook.com/public?query=email@gmail.com&nomc=0"
+            },
+            {
+              "name": "Recover FB Account",
+              "type": "url",
+              "url": "https://www.facebook.com/login/identify?ctx=recover"
+            },
+            {
+              "name": "Facebook Photos by ID (M)",
+              "type": "url",
+              "url": "https://www.facebook.com/photo.php?fbid=PHOTO-ID-HERE"
+            },
+            {
+              "name": "FB Lookup ID",
+              "type": "url",
+              "url": "https://lookup-id.com/"
+            },
+            {
+              "name": "FB Identify (Requires Logout)",
+              "type": "url",
+              "url": "https://www.facebook.com/login/identify"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Instagram",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Inflact Instagram Viewer (Anonymous)",
+          "type": "url",
+          "url": "https://inflact.com/profiles/instagram-viewer/"
+        },
+        {
+          "name": "Osintgram (T)",
+          "type": "url",
+          "url": "https://github.com/Datalux/Osintgram"
+        }
+      ]
+    },
+    {
+      "name": "Twitter",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Search",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Twitter Advanced Search",
+              "type": "url",
+              "url": "https://twitter.com/search-advanced"
+            },
+            {
+              "name": "Twitter Location Search",
+              "type": "url",
+              "url": "https://twitter.com/search?q=geocode%3A36.1143855%2C-115.1727518%2C1km&src=typd"
+            },
+            {
+              "name": "Twitter Date Search",
+              "type": "url",
+              "url": "https://twitter.com/search?q=SearchTerm%20since:2016-03-01%20until:2016-03-02"
+            },
+            {
+              "name": "BackTweets",
+              "type": "url",
+              "url": "http://backtweets.com/"
+            },
+            {
+              "name": "Followerwonk (R)",
+              "type": "url",
+              "url": "https://followerwonk.com/"
+            },
+            {
+              "name": "Twopcharts",
+              "type": "url",
+              "url": "http://twopcharts.com/"
+            },
+            {
+              "name": "TweeterID",
+              "type": "url",
+              "url": "https://tweeterid.com/"
+            }
+          ]
+        },
+        {
+          "name": "Analytics",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Profile",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Tweepsect",
+                  "type": "url",
+                  "url": "http://tweepsect.com/"
+                },
+                {
+                  "name": "Twitonomy",
+                  "type": "url",
+                  "url": "http://www.twitonomy.com/"
+                },
+                {
+                  "name": "Foller.me Analytics",
+                  "type": "url",
+                  "url": "https://foller.me/"
+                },
+                {
+                  "name": "X0rz Tweets_analyzer (T)",
+                  "type": "url",
+                  "url": "https://github.com/x0rz/tweets_analyzer"
+                }
+              ]
+            },
+            {
+              "name": "Hashtag",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "RiteTag",
+                  "type": "url",
+                  "url": "https://ritetag.com/"
+                },
+                {
+                  "name": "TAGSExplorer",
+                  "type": "url",
+                  "url": "https://tags.hawksey.info/tagsexplorer/"
+                }
+              ]
+            },
+            {
+              "name": "Tweet Metadata",
+              "type": "url",
+              "url": "http://online.wsj.com/public/resources/documents/TweetMetadata.pdf"
+            },
+            {
+              "name": "Birdwatcher (T)",
+              "type": "url",
+              "url": "https://github.com/michenriksen/birdwatcher"
+            },
+            {
+              "name": "Tinfoleak Web",
+              "type": "url",
+              "url": "http://tinfoleak.com/"
+            },
+            {
+              "name": "Tinfoleak.py (T)",
+              "type": "url",
+              "url": "http://www.vicenteaguileradiaz.com/tools/"
+            },
+            {
+              "name": "DMI-TCAT (T)",
+              "type": "url",
+              "url": "https://github.com/digitalmethodsinitiative/dmi-tcat"
+            },
+            {
+              "name": "Twint (T)",
+              "type": "url",
+              "url": "https://github.com/twintproject/twint"
+            }
+          ]
+        },
+        {
+          "name": "Location / Mapping",
+          "type": "folder",
+          "children": [
+            {
+              "name": "GeoSocial Footprint",
+              "type": "url",
+              "url": "http://geosocialfootprint.com/"
+            },
+            {
+              "name": "HEAVY.AI OmniSci Tweetmap",
+              "type": "url",
+              "url": "https://www.heavy.ai/demos/tweetmap"
+            },
+            {
+              "name": "One Million Tweet Map",
+              "type": "url",
+              "url": "http://onemilliontweetmap.com/"
+            },
+            {
+              "name": "Creepy (T)",
+              "type": "url",
+              "url": "http://www.geocreepy.com/"
+            },
+            {
+              "name": "Fedica",
+              "type": "url",
+              "url": "https://fedica.com/"
+            }
+          ]
+        },
+        {
+          "name": "Archive / Deleted Tweets",
+          "type": "folder",
+          "children": [
+            {
+              "name": "All My Tweets",
+              "type": "url",
+              "url": "https://www.allmytweets.net/connect/"
+            },
+            {
+              "name": "Spoonbill",
+              "type": "url",
+              "url": "https://spoonbill.io"
+            },
+            {
+              "name": "TweetVacuum (T)",
+              "type": "url",
+              "url": "https://github.com/T3hUb3rK1tten/TweetVacuum"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reddit",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Reddit Metis",
+          "type": "url",
+          "url": "https://redditmetis.com/#"
+        },
+        {
+          "name": "Reddit Archive",
+          "type": "url",
+          "url": "http://www.redditarchive.com/"
+        },
+        {
+          "name": "subreddits",
+          "type": "url",
+          "url": "http://subreddits.org/"
+        },
+        {
+          "name": "Reddit Comment History",
+          "type": "url",
+          "url": "https://roadtolarissa.com/javascript/reddit-comment-visualizer/"
+        }
+      ]
+    },
+    {
+      "name": "LinkedIn",
+      "type": "folder",
+      "children": [
+        {
+          "name": "LinkedInt - LinkedIn Recon Tool (T)",
+          "type": "url",
+          "url": "https://github.com/vysec/LinkedInt"
+        },
+        {
+          "name": "ScrapedIn (T)",
+          "type": "url",
+          "url": "https://github.com/dchrastil/ScrapedIn"
+        },
+        {
+          "name": "InSpy (T)",
+          "type": "url",
+          "url": "https://github.com/leapsecurity/InSpy"
+        },
+        {
+          "name": "raven (T)",
+          "type": "url",
+          "url": "https://github.com/0x09AL/raven"
+        }
+      ]
+    },
+    {
+      "name": "Tiktok",
+      "type": "folder",
+      "children": [
+        {
+          "name": "TikTok Viewer",
+          "type": "url",
+          "url": "https://urlebird.com/"
+        }
+      ]
+    },
+    {
+      "name": "Bluesky",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Treeverse (T)",
+          "type": "url",
+          "url": "https://github.com/paulgb/Treeverse"
+        }
+      ]
+    },
+    {
+      "name": "Steam, Discord & Gaming Networks",
+      "type": "folder",
+      "children": [
+        {
+          "name": "SteamOSINT (T)",
+          "type": "url",
+          "url": "https://github.com/Frontline-Femmes/Steam-OSINT"
+        }
+      ]
+    },
+    {
+      "name": "Other Social Networks",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Myspace",
+          "type": "url",
+          "url": "https://myspace.com/"
+        },
+        {
+          "name": "Tumblr",
+          "type": "url",
+          "url": "http://www.tumblr.com/tagged/search"
+        },
+        {
+          "name": "TheHoodUp (NSFW)",
+          "type": "url",
+          "url": "http://thehoodup.com/board/"
+        },
+        {
+          "name": "BlackPlanet.com - Member Find",
+          "type": "url",
+          "url": "http://www.blackplanet.com/user_search/index.html"
+        },
+        {
+          "name": "MiGente (Latino)",
+          "type": "url",
+          "url": "http://www.migente.com/user_search/index.html"
+        },
+        {
+          "name": "Asian Avenue",
+          "type": "url",
+          "url": "http://www.asianave.com/user_search/index.html"
+        },
+        {
+          "name": "Orkut (Brazil)",
+          "type": "url",
+          "url": "https://orkut.google.com/"
+        },
+        {
+          "name": "Odnoklassniki",
+          "type": "url",
+          "url": "http://ok.ru/"
+        },
+        {
+          "name": "VK",
+          "type": "url",
+          "url": "https://vk.com/"
+        },
+        {
+          "name": "Delicious",
+          "type": "url",
+          "url": "https://del.icio.us/"
+        }
+      ]
+    },
+    {
+      "name": "Search",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Social Searcher",
+          "type": "url",
+          "url": "http://www.social-searcher.com/"
+        },
+        {
+          "name": "Google Social Search",
+          "type": "url",
+          "url": "http://www.social-searcher.com/google-social-search/"
+        },
+        {
+          "name": "SocialBlade.com",
+          "type": "url",
+          "url": "http://socialblade.com/"
+        },
+        {
+          "name": "Talkwalker Social Media Search (R)",
+          "type": "url",
+          "url": "https://www.talkwalker.com/social-media-analytics-search"
+        },
+        {
+          "name": "PinGroupie",
+          "type": "url",
+          "url": "http://pingroupie.com/"
+        },
+        {
+          "name": "Google CSE for Telegram links",
+          "type": "url",
+          "url": "https://cse.google.com/cse?cx=006368593537057042503:efxu7xprihg"
+        }
+      ]
+    }
+  ]
+}

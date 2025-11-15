@@ -1,0 +1,166 @@
+{
+  "name": "Email Address",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Email Search",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Sylva Identity Discovery (T)",
+          "type": "url",
+          "url": "https://sylva.pfeister.dev/"
+        },
+        {
+          "name": "ThatsThem",
+          "type": "url",
+          "url": "https://thatsthem.com/reverse-email-lookup"
+        },
+        {
+          "name": "Hunter",
+          "type": "url",
+          "url": "https://hunter.io/"
+        },
+        {
+          "name": "Email to Address (R)",
+          "type": "url",
+          "url": "http://www.melissadata.com/lookups/emails.asp"
+        },
+        {
+          "name": "VoilaNorbert",
+          "type": "url",
+          "url": "https://www.voilanorbert.com/"
+        },
+        {
+          "name": "GHunt (T)",
+          "type": "url",
+          "url": "https://github.com/mxrch/GHunt"
+        },
+        {
+          "name": "OSINT Industries",
+          "type": "url",
+          "url": "https://osint.industries/"
+        },
+        {
+          "name": "theHarvester (T)",
+          "type": "url",
+          "url": "https://github.com/laramies/theHarvester"
+        },
+        {
+          "name": "Infoga (T)",
+          "type": "url",
+          "url": "https://github.com/m4ll0k/infoga"
+        },
+        {
+          "name": "Skymem",
+          "type": "url",
+          "url": "http://www.skymem.info/"
+        },
+        {
+          "name": "Epieos",
+          "type": "url",
+          "url": "https://epieos.com/"
+        }
+      ]
+    },
+    {
+      "name": "Common Email Formats",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Email Format",
+          "type": "url",
+          "url": "https://www.email-format.com/"
+        },
+        {
+          "name": "Email Permutator",
+          "type": "url",
+          "url": "http://metricsparrow.com/toolkit/email-permutator/"
+        },
+        {
+          "name": "OneLook Reverse Dictionary and Thesaurus",
+          "type": "url",
+          "url": "http://www.onelook.com/reverse-dictionary.shtml"
+        }
+      ]
+    },
+    {
+      "name": "Email Verification",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Reacher Github (T)",
+          "type": "url",
+          "url": "https://github.com/reacherhq/check-if-email-exists"
+        },
+        {
+          "name": "Reacher Demo",
+          "type": "url",
+          "url": "https://reacher.email"
+        },
+        {
+          "name": "MailScrap",
+          "type": "url",
+          "url": "https://mailscrap.com/"
+        },
+        {
+          "name": "Read Notify",
+          "type": "url",
+          "url": "http://www.readnotify.com/"
+        },
+        {
+          "name": "Email Reputation",
+          "type": "url",
+          "url": "https://emailrep.io/"
+        },
+        {
+          "name": "MailboxValidator",
+          "type": "url",
+          "url": "https://www.mailboxvalidator.com/demo"
+        }
+      ]
+    },
+    {
+      "name": "Breach Data",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Have I been pwned?",
+          "type": "url",
+          "url": "https://haveibeenpwned.com/"
+        },
+        {
+          "name": "Hudson Rock",
+          "type": "url",
+          "url": "https://www.hudsonrock.com/threat-intelligence-cybercrime-tools"
+        },
+        {
+          "name": "DeHashed (R)",
+          "type": "url",
+          "url": "https://dehashed.com/"
+        },
+        {
+          "name": "Vigilante.pw",
+          "type": "url",
+          "url": "https://www.vigilante.pw/"
+        },
+        {
+          "name": "Ashley Madison Emails",
+          "type": "url",
+          "url": "https://ashley.cynic.al/"
+        }
+      ]
+    },
+    {
+      "name": "Mail Blacklists",
+      "type": "folder",
+      "children": [
+        {
+          "name": "MxToolbox",
+          "type": "url",
+          "url": "http://mxtoolbox.com/"
+        }
+      ]
+    }
+  ]
+}

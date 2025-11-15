@@ -1,0 +1,593 @@
+{
+  "name": "Images / Videos / Docs",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Images",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Search",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Google Images",
+              "type": "url",
+              "url": "https://images.google.com/?gws_rd=ssl"
+            },
+            {
+              "name": "Bing Images",
+              "type": "url",
+              "url": "http://www.bing.com/images"
+            },
+            {
+              "name": "Yahoo Image Search",
+              "type": "url",
+              "url": "http://images.yahoo.com/"
+            },
+            {
+              "name": "TinEye Reverse Image Search",
+              "type": "url",
+              "url": "http://tineye.com/"
+            },
+            {
+              "name": "PimEyes Face Search Engine",
+              "type": "url",
+              "url": "https://pimeyes.com/en"
+            },
+            {
+              "name": "Yandex Images",
+              "type": "url",
+              "url": "https://www.yandex.com/images/"
+            },
+            {
+              "name": "Baidu Images",
+              "type": "url",
+              "url": "http://shitu.baidu.com/"
+            },
+            {
+              "name": "Twitter Image Search (M)",
+              "type": "url",
+              "url": "https://twitter.com/search?q=%3Csearchterm%3E&src=typd&vertical=default&f=images"
+            },
+            {
+              "name": "Imgur Search",
+              "type": "url",
+              "url": "https://imgur.com/search"
+            },
+            {
+              "name": "Photobucket",
+              "type": "url",
+              "url": "http://photobucket.com/"
+            },
+            {
+              "name": "Karma Decay",
+              "type": "url",
+              "url": "http://karmadecay.com/"
+            },
+            {
+              "name": "Image Raider",
+              "type": "url",
+              "url": "https://www.imageraider.com/"
+            },
+            {
+              "name": "7Photos.net",
+              "type": "url",
+              "url": "http://7photos.net/"
+            },
+            {
+              "name": "Panoramio",
+              "type": "url",
+              "url": "http://www.panoramio.com/"
+            },
+            {
+              "name": "Current Location",
+              "type": "url",
+              "url": "http://current-location.com/"
+            },
+            {
+              "name": "Lakako Photo Search",
+              "type": "url",
+              "url": "http://www.lakako.com/"
+            },
+            {
+              "name": "CC Search",
+              "type": "url",
+              "url": "https://ccsearch.creativecommons.org/"
+            },
+            {
+              "name": "CamFind App",
+              "type": "url",
+              "url": "http://camfindapp.com/"
+            },
+            {
+              "name": "RevEye Reverse Image Search (T)",
+              "type": "url",
+              "url": "https://chrome.google.com/webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf?hl=en"
+            },
+            {
+              "name": "SmugMug Search",
+              "type": "url",
+              "url": "http://www.smugmug.com/search"
+            },
+            {
+              "name": "ImageNet",
+              "type": "url",
+              "url": "http://image-net.org/"
+            },
+            {
+              "name": "Places2",
+              "type": "url",
+              "url": "http://places2.csail.mit.edu/explore.html"
+            },
+            {
+              "name": "Image Identification Project",
+              "type": "url",
+              "url": "https://www.imageidentify.com/"
+            },
+            {
+              "name": "SauceNAO",
+              "type": "url",
+              "url": "https://saucenao.com/"
+            },
+            {
+              "name": "Picarta",
+              "type": "url",
+              "url": "https://picarta.ai/"
+            }
+          ]
+        },
+        {
+          "name": "Instagram",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Webstigram",
+              "type": "url",
+              "url": "http://websta.me/search"
+            },
+            {
+              "name": "Instagram",
+              "type": "url",
+              "url": "https://www.instagram.com/"
+            },
+            {
+              "name": "Mini Instagram",
+              "type": "url",
+              "url": "http://mininsta.net/"
+            },
+            {
+              "name": "Imgrab",
+              "type": "url",
+              "url": "https://imgrab.com/"
+            },
+            {
+              "name": "Tofo.me",
+              "type": "url",
+              "url": "https://tofo.me/"
+            }
+          ]
+        },
+        {
+          "name": "Flickr",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Flickr",
+              "type": "url",
+              "url": "https://www.flickr.com/"
+            },
+            {
+              "name": "Flickr Map",
+              "type": "url",
+              "url": "https://www.flickr.com/map/"
+            },
+            {
+              "name": "My Pics Map",
+              "type": "url",
+              "url": "http://www.mypicsmap.com/"
+            },
+            {
+              "name": "idGettr",
+              "type": "url",
+              "url": "http://idgettr.com/"
+            },
+            {
+              "name": "Flickr Hive Mind",
+              "type": "url",
+              "url": "http://flickrhivemind.net/"
+            }
+          ]
+        },
+        {
+          "name": "Metadata",
+          "type": "folder",
+          "children": [
+            {
+              "name": "ExifTool (T)",
+              "type": "url",
+              "url": "http://www.sno.phy.queensu.ca/~phil/exiftool/"
+            },
+            {
+              "name": "ExifEditor",
+              "type": "url",
+              "url": "https://exifeditor.io"
+            },
+            {
+              "name": "Jeffrey's Exif Viewer",
+              "type": "url",
+              "url": "http://exif.regex.info/"
+            },
+            {
+              "name": "ExifViewer",
+              "type": "url",
+              "url": "http://www.exifviewer.org/"
+            },
+            {
+              "name": "Search by Exif",
+              "type": "url",
+              "url": "http://www.exif-search.com/"
+            },
+            {
+              "name": "ImgOps",
+              "type": "url",
+              "url": "http://imgops.com/"
+            },
+            {
+              "name": "Metapicz",
+              "type": "url",
+              "url": "http://metapicz.com/#landing"
+            },
+            {
+              "name": "JPEGsnoop (T)",
+              "type": "url",
+              "url": "http://www.impulseadventure.com/photo/jpeg-snoop.html"
+            },
+            {
+              "name": "GeoSetter",
+              "type": "url",
+              "url": "http://www.geosetter.de/en/"
+            },
+            {
+              "name": "xeuledoc - Fetch metadata about any public Google document",
+              "type": "url",
+              "url": "https://github.com/Malfrats/xeuledoc"
+            }
+          ]
+        },
+        {
+          "name": "Forensics",
+          "type": "folder",
+          "children": [
+            {
+              "name": "FotoForensics",
+              "type": "url",
+              "url": "http://fotoforensics.com/"
+            },
+            {
+              "name": "Ghiro (T)",
+              "type": "url",
+              "url": "https://github.com/ghirensics/ghiro"
+            },
+            {
+              "name": "Camera Trace",
+              "type": "url",
+              "url": "http://www.cameratrace.com/trace"
+            }
+          ]
+        },
+        {
+          "name": "OCR",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Online OCR",
+              "type": "url",
+              "url": "http://www.free-ocr.com/"
+            },
+            {
+              "name": "i2OCR",
+              "type": "url",
+              "url": "http://www.i2ocr.com/"
+            },
+            {
+              "name": "New OCR",
+              "type": "url",
+              "url": "https://www.newocr.com/"
+            },
+            {
+              "name": "Online OCR",
+              "type": "url",
+              "url": "http://www.onlineocr.net/"
+            }
+          ]
+        },
+        {
+          "name": "Tools",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Creepy (T)",
+              "type": "url",
+              "url": "http://www.geocreepy.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Videos",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Search",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Google Videos",
+              "type": "url",
+              "url": "https://www.google.com/videohp?gws_rd=ssl"
+            },
+            {
+              "name": "Bing Videos",
+              "type": "url",
+              "url": "http://www.bing.com/videos"
+            },
+            {
+              "name": "Vimeo Search",
+              "type": "url",
+              "url": "https://vimeo.com/search?"
+            },
+            {
+              "name": "Internet Archive Videos",
+              "type": "url",
+              "url": "https://archive.org/details/opensource_movies"
+            },
+            {
+              "name": "Vines (D)",
+              "type": "url",
+              "url": "https://www.google.com/search?q=site:vine.co+%3Csearchterm%3E"
+            },
+            {
+              "name": "Dogpile Web Search",
+              "type": "url",
+              "url": "http://www.dogpile.com/"
+            },
+            {
+              "name": "Geo Search Tool",
+              "type": "url",
+              "url": "http://www.geosearchtool.com/"
+            },
+            {
+              "name": "blinkx Video Search",
+              "type": "url",
+              "url": "http://www.blinkx.com/"
+            },
+            {
+              "name": "Facebook Live Map",
+              "type": "url",
+              "url": "https://www.facebook.com/livemap#"
+            },
+            {
+              "name": "LiveLeak",
+              "type": "url",
+              "url": "https://www.liveleak.com/"
+            },
+            {
+              "name": "Metatube",
+              "type": "url",
+              "url": "http://www.metatube.com/"
+            },
+            {
+              "name": "Yahoo Video Search",
+              "type": "url",
+              "url": "http://video.search.yahoo.com/"
+            }
+          ]
+        },
+        {
+          "name": "Analyze / Record",
+          "type": "folder",
+          "children": [
+            {
+              "name": "DetURL",
+              "type": "url",
+              "url": "http://deturl.com/"
+            },
+            {
+              "name": "Print YouTube StoryBoard Instructions",
+              "type": "url",
+              "url": "http://www.labnol.org/internet/print-youtube-video/28217/"
+            },
+            {
+              "name": "Print Storyboard from Youtube",
+              "type": "url",
+              "url": "javascript:(function(){a=ytplayer.config.args.storyboard_spec;if(!a){alert(\"Sorry we cannot process this YouTube video. Could you please try another one\");exit();}b=a.split(\"|\");base=b[0].split(\"$\")[0]+\"2/M\";c=b[3].split(\"%23\");sigh=c[c.length-1];var imgs=\"\";t=ytplayer.config.args.length_seconds;n=Math.ceil(c[2]/(c[3]*c[4]));for(i=0;i<n;i++){imgs+=\"<PICTURE='\"+base+i+\".jpg%3Fsigh=\"+sigh+\"'><br/>\";}var title=ytplayer.config.args.title;msg=\"<body style='background-color:#444;color:#eee;margin:20px%20auto;width:90%;text-align:center'%3E%3Ch2%3ETITLE%3C/h2%3E%3Cdiv%3EIMAGES%3C/div%3E%3Cbr/%3E%3Cem%3E%3Ca%20href='http://labnol.org/?p=28217'%20style='text-decoration:none;color:#fff;font-style:bold'%3EPrinted%20using%20the%20YouTube%20bookmarklet.%3C/a%3E%3C/em%3E%3C/body%3E%22;msg=msg.replace(%22TITLE%22,title).replace(%22IMAGES%22,imgs).replace(/PICTURE/g,%22img%20src%22);var%20labnol=window.open();labnol.document.open();labnol.document.write(msg);labnol.document.close();})();"
+            },
+            {
+              "name": "Frame by Frame for YouTube (T)",
+              "type": "url",
+              "url": "https://chrome.google.com/webstore/detail/frame-by-frame-for-youtub/elkadbdicdciddfkdpmaolomehalghio?hl=en-GB"
+            },
+            {
+              "name": "YouTube Metadata",
+              "type": "url",
+              "url": "http://www.amnestyusa.org/citizenevidence/"
+            },
+            {
+              "name": "TubeChop",
+              "type": "url",
+              "url": "http://www.tubechop.com/"
+            },
+            {
+              "name": "YouTube Data Tools",
+              "type": "url",
+              "url": "https://tools.digitalmethods.net/netvizz/youtube/"
+            },
+            {
+              "name": "Hooktube",
+              "type": "url",
+              "url": "https://hooktube.com/"
+            },
+            {
+              "name": "yasiv-youtube",
+              "type": "url",
+              "url": "https://yasiv.com/youtube"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Webcams",
+      "type": "folder",
+      "children": [
+        {
+          "name": "SeeAllTheThings",
+          "type": "url",
+          "url": "https://github.com/baywolf88/seeallthethings"
+        },
+        {
+          "name": "Insecam",
+          "type": "url",
+          "url": "http://insecam.org/"
+        },
+        {
+          "name": "EarthCam",
+          "type": "url",
+          "url": "http://www.earthcam.com/"
+        }
+      ]
+    },
+    {
+      "name": "Documents",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Search",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Common GoogleDorks",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "GoogleDocs (D)",
+                  "type": "url",
+                  "url": "https://www.google.com/?q=site:docs.google.com+%3Csearchterm%3E"
+                },
+                {
+                  "name": "GoogleDrive (D)",
+                  "type": "url",
+                  "url": "https://www.google.com/?q=site:drive.google.com+%3Csearchterm%3E"
+                },
+                {
+                  "name": "Dropbox (D)",
+                  "type": "url",
+                  "url": "https://www.google.com/?q=site:dl.dropbox.com+%3Csearchterm%3E"
+                },
+                {
+                  "name": "Amazon AWS (D)",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=site:s3.amazonaws.com+%3Csearchterm%3E"
+                },
+                {
+                  "name": "OneDrive (D)",
+                  "type": "url",
+                  "url": "https://www.google.com/search?safe=off&q=site:onedrive.live.com+%3Csearchterm%3E"
+                },
+                {
+                  "name": "Cryptome (D)",
+                  "type": "url",
+                  "url": "https://www.google.com/search?q=site:cryptome.org+%3Csearchterm%3E"
+                }
+              ]
+            },
+            {
+              "name": "Scribd",
+              "type": "url",
+              "url": "https://www.scribd.com/"
+            },
+            {
+              "name": "DocJax",
+              "type": "url",
+              "url": "http://www.docjax.com/"
+            },
+            {
+              "name": "WikiLeaks Search",
+              "type": "url",
+              "url": "https://search.wikileaks.org/advanced"
+            },
+            {
+              "name": "RECAP Court Doc Repo",
+              "type": "url",
+              "url": "http://archive.recapthelaw.org/"
+            },
+            {
+              "name": "filessoo.com",
+              "type": "url",
+              "url": "http://filessoo.com/"
+            },
+            {
+              "name": "Leaked Cables",
+              "type": "url",
+              "url": "https://search.wikileaks.org/plusd/"
+            }
+          ]
+        },
+        {
+          "name": "Paste Sites",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Pastebin Alerts",
+              "type": "url",
+              "url": "http://andrewmohawk.com/pasteLert/"
+            },
+            {
+              "name": "Just Paste It",
+              "type": "url",
+              "url": "https://justpaste.it/"
+            },
+            {
+              "name": "Pastebin OSINT Harvester (T)",
+              "type": "url",
+              "url": "https://github.com/needmorecowbell/sniff-paste"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fonts",
+      "type": "folder",
+      "children": [
+        {
+          "name": "What The Font",
+          "type": "url",
+          "url": "https://www.myfonts.com/WhatTheFont/"
+        },
+        {
+          "name": "Font Squirrel",
+          "type": "url",
+          "url": "https://www.fontsquirrel.com/matcherator"
+        },
+        {
+          "name": "IdentiFont",
+          "type": "url",
+          "url": "http://www.identifont.com/index.html"
+        },
+        {
+          "name": "Font Spring",
+          "type": "url",
+          "url": "https://www.fontspring.com/matcherator"
+        },
+        {
+          "name": "What Font Is",
+          "type": "url",
+          "url": "https://www.whatfontis.com/"
+        }
+      ]
+    }
+  ]
+}

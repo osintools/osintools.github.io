@@ -1,0 +1,158 @@
+{
+  "name": "Mobile Emulation",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Android",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Emulation Tools",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Genymotion (T)",
+              "type": "url",
+              "url": "https://www.genymotion.com/"
+            },
+            {
+              "name": "BlueStacks 2 (T)",
+              "type": "url",
+              "url": "http://www.bluestacks.com/"
+            },
+            {
+              "name": "Andy Android Emulator (T)",
+              "type": "url",
+              "url": "http://www.andyroid.net/"
+            },
+            {
+              "name": "Nox App Player",
+              "type": "url",
+              "url": "https://www.bignox.com/"
+            }
+          ]
+        },
+        {
+          "name": "Apps",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Social Networking",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Facebook (T)",
+                  "type": "url",
+                  "url": "https://play.google.com/store/apps/details?id=com.facebook.katana"
+                },
+                {
+                  "name": "LinkedIn (T)",
+                  "type": "url",
+                  "url": "https://play.google.com/store/apps/details?id=com.linkedin.android"
+                },
+                {
+                  "name": "Twitter (T)",
+                  "type": "url",
+                  "url": "https://play.google.com/store/apps/details?id=com.twitter.android"
+                },
+                {
+                  "name": "Pinterest (T)",
+                  "type": "url",
+                  "url": "https://play.google.com/store/apps/details?id=com.pinterest"
+                }
+              ]
+            },
+            {
+              "name": "Instant Messaging",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Signal Private Messenger (T)",
+                  "type": "url",
+                  "url": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms"
+                },
+                {
+                  "name": "Riot.im - Communicate, your way (T)",
+                  "type": "url",
+                  "url": "https://play.google.com/store/apps/details?id=im.vector.app"
+                },
+                {
+                  "name": "Telegram (T)",
+                  "type": "url",
+                  "url": "https://play.google.com/store/apps/details?id=org.telegram.messenger"
+                },
+                {
+                  "name": "Snapchat (T)",
+                  "type": "url",
+                  "url": "https://play.google.com/store/apps/details?id=com.snapchat.android"
+                },
+                {
+                  "name": "WhatsApp Messenger (T)",
+                  "type": "url",
+                  "url": "https://play.google.com/store/apps/details?id=com.whatsapp"
+                },
+                {
+                  "name": "Kik (T)",
+                  "type": "url",
+                  "url": "https://play.google.com/store/apps/details?id=kik.android"
+                },
+                {
+                  "name": "Yik Yak (T)",
+                  "type": "url",
+                  "url": "https://play.google.com/store/apps/details?id=com.yik.yak"
+                },
+                {
+                  "name": "LINE (T)",
+                  "type": "url",
+                  "url": "https://play.google.com/store/apps/details?id=jp.naver.line.android"
+                }
+              ]
+            },
+            {
+              "name": "Pictures",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Instagram (T)",
+                  "type": "url",
+                  "url": "https://play.google.com/store/apps/details?id=com.instagram.android"
+                },
+                {
+                  "name": "Flickr (T)",
+                  "type": "url",
+                  "url": "https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.flickr"
+                }
+              ]
+            },
+            {
+              "name": "Streaming Video",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Periscope (T)",
+                  "type": "url",
+                  "url": "https://play.google.com/store/apps/details?id=tv.periscope.android"
+                },
+                {
+                  "name": "Meerkat (T)",
+                  "type": "url",
+                  "url": "https://play.google.com/store/apps/details?id=co.getair.meerkat"
+                },
+                {
+                  "name": "Vine (T)",
+                  "type": "url",
+                  "url": "https://play.google.com/store/apps/details?id=co.vine.android"
+                }
+              ]
+            },
+            {
+              "name": "Truecaller (T)",
+              "type": "url",
+              "url": "https://play.google.com/store/apps/details?id=com.truecaller"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
