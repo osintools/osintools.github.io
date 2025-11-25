@@ -280,11 +280,6 @@
           "url": "https://www.certificate-transparency.org/known-logs"
         },
         {
-          "name": "Spyse",
-          "type": "url",
-          "url": "https://spyse.com/search/certificate"
-        },
-        {
           "name": "Censys",
           "type": "url",
           "url": "https://censys.io/"

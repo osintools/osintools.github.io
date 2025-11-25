@@ -36,6 +36,11 @@
               "url": "https://pimeyes.com/en"
             },
             {
+              "name": "faceseek online",
+              "type": "url",
+              "url": "https://www.faceseek.online/"
+            },
+            {
               "name": "Yandex Images",
               "type": "url",
               "url": "https://www.yandex.com/images/"
