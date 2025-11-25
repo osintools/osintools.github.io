@@ -39,6 +39,28 @@
         }
       ]
     },
+        {
+      "name": "Vk",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Search",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Tracks Vk friend and follower changes",
+              "type": "url",
+              "url": "https://Onli-vk.ru"
+            },
+            {
+              "name": "BDD vidéo vk",
+              "type": "url",
+              "url": "https://top100vk.com/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "name": "Instagram",
       "type": "folder",

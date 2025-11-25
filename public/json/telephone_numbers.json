@@ -30,6 +30,11 @@
       ]
     },
     {
+      "name": "roso info",
+      "type": "url",
+      "url": "https://roso.info/app/"
+    },
+    {
       "name": "WhoCalld",
       "type": "url",
       "url": "https://whocalld.com/"
