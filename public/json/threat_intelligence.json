@@ -184,6 +184,12 @@
       "name": "REScure Cyber Threat Intelligence Project",
       "type": "url",
       "url": "https://rescure.me/feeds.html"
+    },
+    {
+      "name": "GreyNoise",
+      "type": "url",
+      "url": "https://viz.greynoise.io/",
+      "description": "GreyNoise Search est un moteur de recherche permettant de classifier les adresses IP en temps réel (malveillante, benign, unknown) et d'enrichir les alertes de sécurité avec du contexte de menace via GNQL (langage de requête avancé) ou recherche simple."
     }
   ]
 }
